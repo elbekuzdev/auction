@@ -1,0 +1,10 @@
+101 - unauthorized
+100 - authorized
+5   - bad request
+7   - key is invalid
+9   - not found
+111 - no permission
+112 - saved
+113 - wrong (unsaved)
+200 - ok
+115 - id is wrong
